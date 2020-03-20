@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\toka_\Desktop\Kargo online assestement\.metadata\.plugins\org.eclipse.jdt.core
-113558702.index
-2779629487.index
